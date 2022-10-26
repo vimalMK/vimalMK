@@ -3,7 +3,7 @@
 
 #### Passionate about building impactful solutions
 
-I'm a **Developer**, **Algorithmist**, and **Entreprenuer**. Interests ranging from Cloud Tech, Artificial Intelligence to Web,Internet of Things  and Blockchain Technology.
+I'm a **Developer**, **Algorithmist**, and **Entreprenuer**. Interests ranging from Cloud, Machine Learning to Web, Internet of Things and Distributed systems.
 
 You can learn more from my website: [spotvimal.com](https://spotvimal.com).
 
