@@ -1,9 +1,9 @@
 
 # Hello, I'm Vimal!
 
-#### Passionate about building impactful solutions and writing
+#### Passionate about building impactful solutions
 
-I'm a **developer**, **designer**, and **entreprenuer** with a wide variety of interests ranging from Artificial Intelligence to Digital Realities, Internet of Things,  and Blockchain Technology.
+I'm a **Developer**, **Algorithmist**, and **Entreprenuer**. Interests ranging from Cloud Tech, Artificial Intelligence to Web,Internet of Things  and Blockchain Technology.
 
 You can learn more from my website: [spotvimal.com](https://spotvimal.com).
 
