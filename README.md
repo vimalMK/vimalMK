@@ -1,7 +1,5 @@
 
-# Hello, I'm Vimal!
-
-I'm a **Developer**, **Algorithmist**, and **Entreprenuer**. Interests ranging from Cloud, Machine Learning to Web, Internet of Things and Distributed Systems.
+I'm a **Developer**, **Algorithmist**, and **Designer**. Interests ranging from Cloud, Machine Learning to Web, Internet of Things and Distributed Systems.
 
 #### Passionate about building impactful solutions. 
 
