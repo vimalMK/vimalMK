@@ -5,7 +5,7 @@
 
 I'm a **Developer**, **Algorithmist**, and **Entreprenuer**. Interests ranging from Cloud, Machine Learning to Web, Internet of Things and Distributed Systems.
 
-I WATCH-->LEARN-->MASTER-->SHARE--> and repeat..
+I watch--> learn --> more learn --> share --> and repeat..
 
 You can learn more from my website: [spotvimal.com](https://spotvimal.com).
 
