@@ -1,5 +1,5 @@
 
-I'm a **Developer**, **Algorithmist**, and **Designer**. Wide interests ranging from Cloud, Machine Learning to Web, Internet of Things and Distributed Systems.
+I'm a **Developer**, **Algorithmist**, and **Designer**. Wide interests ranging from Cloud, Machine Learning, Web to Internet of Things and Distributed Systems.
 
 #### :rocket: Passionate about building impactful solutions. 
 #### :rocket: Love working on open source softwares.
