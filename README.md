@@ -8,3 +8,4 @@ You can learn more from my website: [spotvimal.com](https://spotvimal.com).
 
 ###### [Get in touch with me] [LinkedIn](https://www.linkedin.com/in/vimalmoorthykrishnamoorthy/)
 
+[![@vimalmoorthy's Holopin board](https://holopin.me/vimalmoorthy)](https://holopin.io/@vimalmoorthy)
