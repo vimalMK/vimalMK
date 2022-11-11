@@ -7,4 +7,4 @@ I'm a **Developer**, **Algorithmist**, and **Designer**. Wide interests ranging 
 You can learn more from my website: [spotvimal.com](https://spotvimal.com).
 
 ###### [Get in touch with me] 
-[LinkedIn](https://www.linkedin.com/in/vimalmoorthykrishnamoorthy/)
+ [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vimalmoorthykrishnamoorthy/)
